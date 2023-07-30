@@ -1,11 +1,9 @@
 # VerbwireHackathon
 Mint NFTs across 13 chains in seconds with VerbMint! 
 
-VerbMint allow anyone regardless of technical skills to chat with our AI-driven LLM assistant to perform blockchain state changes, such as minting NFTs through text across 13 different blockchains in under 30 seconds.
-
-We also trained our LLM to answer questions about Verbwire and Web3 seamlessly through the chat interface.
-
-Our bot is accessible across web, mobile, SMS, Slack and Telegram.
+1. VerbMint allow anyone regardless of technical skills to chat with our AI-driven LLM assistant to perform blockchain state changes, such as minting NFTs through text across 13 different blockchains in under 30 seconds.
+2. We also trained our LLM to answer questions about Verbwire and Web3 seamlessly through the chat interface.
+3. Our bot is accessible across web, mobile, SMS, Slack and Telegram!
 
 #### Disclaimer: My team created a prototype NFT minting chatbot for TreasureHacks 3.5, but it only supported 1 chain and had no File Hosting features nor Verbwire specific Q&A feature and was not integrated with any platform. All the demos shown are work done during the hackathon.
 
