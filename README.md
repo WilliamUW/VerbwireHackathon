@@ -5,8 +5,9 @@ VerbMint allow anyone regardless of technical skills to chat with our AI-driven 
 
 We also trained our LLM to answer questions about Verbwire and Web3 seamlessly through the chat interface.
 
-Disclaimer: My team created a prototype NFT minting chatbot for TreasureHacks 3.5, but it only supported 1 chain and had no Verbwire specific Q&A feature. All the demos shown are work done during the hackathon.
+#### Disclaimer: My team created a prototype NFT minting chatbot for TreasureHacks 3.5, but it only supported 1 chain and had no File Hosting features nor Verbwire specific Q&A feature. All the demos shown are work done during the hackathon.
 
+## Features
 
 ### Verbwire NFT Minting (across 13 chains):
 
