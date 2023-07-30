@@ -10,9 +10,16 @@ Disclaimer: My team created a prototype NFT minting chatbot for TreasureHacks 3.
 
 ### Verbwire NFT Minting (across 13 chains):
 
-
 https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/647ba516-6c68-4f04-a710-c347d7543c24
 
+### IPFS File Hosting through Chat:
+
+https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/038d1ee2-363b-42c7-8a75-9c7cb319d34b
+
+### Verbwire Q&A
+
+
+## Deployments
 
 ### Web Deployment
 
@@ -28,4 +35,3 @@ https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/67da38c0-0819-4d4
 
 
 
-### Verbwire Q&A
