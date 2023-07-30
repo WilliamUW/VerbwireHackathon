@@ -8,7 +8,7 @@
 
 1. VerbMint allow anyone regardless of technical skills to chat with our AI-driven LLM assistant to perform blockchain state changes, such as minting NFTs through text across 13 different blockchains in under 30 seconds.
 2. We also trained our LLM to answer questions about Verbwire and Web3 seamlessly through the chat interface.
-3. Our bot is accessible across web, mobile, Discord, Slack and Telegram!
+3. Our bot is accessible across **web, mobile, Discord, Slack and Telegram**!
 
 ### Team Members
 ![image](https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/f79c32dc-e365-4a88-8e5c-b4c23f95ccb6)
