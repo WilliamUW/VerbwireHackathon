@@ -2,7 +2,7 @@
 
 ## Project Submission
 
-### Name: VerbMint
+### Name: VerbMint 🤖
 
 ### Description: Mint NFTs across 13 chains in seconds with VerbMint! 
 
