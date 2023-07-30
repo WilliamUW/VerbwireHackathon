@@ -18,8 +18,6 @@ All Technical Team Members
 #### Readme: https://github.com/WilliamUW/VerbwireHackathon#readme
 #### A link to a video or slide presentation demo: https://github.com/WilliamUW/VerbwireHackathon#readme
 #### Preferably a link to a functional site that the judges can use to judge the entry: https://creator.voiceflow.com/prototype/64814984b7085d0007c2f37e
-#### Any additional information you want the judging team to consider: 
-My team created a prototype NFT minting chatbot for TreasureHacks 3.5, but it only supported 1 chain and had no File Hosting features nor Verbwire specific Q&A feature and was not integrated with any platform. All the demos shown are work done during the hackathon.
 
 ## Features
 
