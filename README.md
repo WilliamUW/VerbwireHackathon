@@ -8,11 +8,11 @@ We also trained our LLM to answer questions about Verbwire and Web3 seamlessly t
 Disclaimer: My team created a prototype NFT minting chatbot for TreasureHacks 3.5, but it only supported 1 chain and had no Verbwire specific Q&A feature. All the demos shown are work done during the hackathon.
 
 
-Verbwire NFT Minting (across 13 chains):
+### Verbwire NFT Minting (across 13 chains):
 
 
 https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/647ba516-6c68-4f04-a710-c347d7543c24
 
 
 
-
+### Verbwire Q&A
