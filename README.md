@@ -14,5 +14,12 @@ Disclaimer: My team created a prototype NFT minting chatbot for TreasureHacks 3.
 https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/647ba516-6c68-4f04-a710-c347d7543c24
 
 
+### Web Deployment
+
+
+https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/bdaa5111-0a96-4c7e-a2d7-be342e84af0e
+
+
+
 
 ### Verbwire Q&A
