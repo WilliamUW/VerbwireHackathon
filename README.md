@@ -33,12 +33,6 @@ https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/8db979fc-ca4b-495
 
 ### Telegram Deployment
 
-https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/b5d04545-20ac-4f3f-b4b5-8b8edcfb323d
-
-
-
-
-
 https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/67da38c0-0819-4d49-abae-b7483508b718
 
 
