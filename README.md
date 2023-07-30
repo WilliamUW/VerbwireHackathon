@@ -19,7 +19,7 @@ https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/038d1ee2-363b-42c
 
 ### Verbwire Q&A
 
-https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/d452fe6c-d2f6-42cf-8d3d-7de1b4085e4f
+https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/37d7c93d-52e3-4b98-b9f7-38ca700c1135
 
 ## Deployments
 
