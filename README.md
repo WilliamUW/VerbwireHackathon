@@ -2,13 +2,9 @@
 
 ## Project Submission
 
-### Name
+### Name: VerbMint
 
-VerbMint
-
-### Description
-
-Mint NFTs across 13 chains in seconds with VerbMint! 
+### Description: Mint NFTs across 13 chains in seconds with VerbMint! 
 
 1. VerbMint allow anyone regardless of technical skills to chat with our AI-driven LLM assistant to perform blockchain state changes, such as minting NFTs through text across 13 different blockchains in under 30 seconds.
 2. We also trained our LLM to answer questions about Verbwire and Web3 seamlessly through the chat interface.
