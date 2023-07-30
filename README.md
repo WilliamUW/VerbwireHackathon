@@ -12,7 +12,7 @@ We want to onboard the next billion users onto Web3 through Verbwire!
 2. VerbMint supports decentralized file hosting through chat. All you have to do is provide a URL, and the file will be automatically stored onto IPFS!
 3. We also trained our LLM to answer questions about Verbwire and Web3 seamlessly through the chat interface. We fed all Verbwire's API documentation and webpages so it can help users quickly find the information they need through chat!
    * E.g. How do I get started with Verbwire? What is the API call for minting an NFT? What contracts can I deploy using Verbwire?
-5. Our bot is accessible across **web, mobile, Discord, Slack and Telegram**!
+5. Our bot is accessible across **web, mobile, Discord, Slack, and Telegram**!
 
 ### Team Members
 ![image](https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/f79c32dc-e365-4a88-8e5c-b4c23f95ccb6)
