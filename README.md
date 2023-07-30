@@ -8,8 +8,7 @@
 
 1. VerbMint allow anyone regardless of technical skills to chat with our AI-driven LLM assistant to perform blockchain state changes, such as minting NFTs through text across 13 different blockchains in under 30 seconds. 
 2. VerbMint supports decentralized file hosting through chat. All you have to do is provide a URL, and the file will be automatically stored onto IPFS!
-3. We also trained our LLM to answer questions about Verbwire and Web3 seamlessly through the chat interface. We fed all Verbwire's API documentation and webpages so it can help users quickly find the information they need through chat!
-  a. E.g. How do I get started with Verbwire? What is the API call for minting an NFT? What contracts can I deploy using Verbwire?
+3. We also trained our LLM to answer questions about Verbwire and Web3 seamlessly through the chat interface. We fed all Verbwire's API documentation and webpages so it can help users quickly find the information they need through chat! (E.g. How do I get started with Verbwire? What is the API call for minting an NFT? What contracts can I deploy using Verbwire?)
 4. Our bot is accessible across **web, mobile, Discord, Slack and Telegram**!
 
 ### Team Members
