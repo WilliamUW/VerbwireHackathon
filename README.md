@@ -7,7 +7,10 @@ We also trained our LLM to answer questions about Verbwire and Web3 seamlessly t
 
 
 Verbwire NFT Minting (across 13 chains):
-https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/e6e54a0c-2550-4426-9917-e3ad0cc3e160
+
+
+https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/647ba516-6c68-4f04-a710-c347d7543c24
+
 
 
 
