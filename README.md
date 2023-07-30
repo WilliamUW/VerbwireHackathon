@@ -25,10 +25,17 @@ https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/37d7c93d-52e3-4b9
 
 ### Web Deployment
 
-
 https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/bdaa5111-0a96-4c7e-a2d7-be342e84af0e
 
 ### Slack Deployment
+
+https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/8db979fc-ca4b-4956-877d-9ce0f99ef504
+
+### Telegram Deployment
+
+https://github.com/WilliamUW/VerbwireHackathon/assets/25058545/b5d04545-20ac-4f3f-b4b5-8b8edcfb323d
+
+
 
 
 
